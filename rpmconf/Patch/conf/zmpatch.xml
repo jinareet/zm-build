@@ -64,6 +64,7 @@
   <bug>ZCS-4860</bug>
   <bug>ZCS-4461</bug>
   <bug>ZCS-4644</bug>
+  <bug>ZBUG-390</bug>
   <package name="zimbra-store">
       <file>
         <source>zm-build/storebuild/opt/zimbra/jetty-distribution-9.3.5.v20151012/webapps/zimbra/js/MailCore_all.js.zgz</source>
